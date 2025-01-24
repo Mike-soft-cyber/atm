@@ -19,10 +19,9 @@ This is a simple Java-based ATM Machine Simulation program. It allows users to:
 
 ## Installation
 
-1. Clone or download the repository
+1. Clone the repository
 
-git clone <repository-url>
-cd atm-simulation
+git clone [<repository-url>](https://github.com/Mike-soft-cyber/atm)
 
 2. Compile the code
 
