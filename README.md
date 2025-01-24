@@ -20,17 +20,20 @@ This is a simple Java-based ATM Machine Simulation program. It allows users to:
 ## Installation
 
 - ### Clone the repository
-
-git clone [<repository-url>](https://github.com/Mike-soft-cyber/atm)
+```sh
+git clone https://github.com/Mike-soft-cyber/atm
+cd atm
+```
 
 - ### Compile the code
-
+```sh
 javac Main.java
+```
 
 - ### Run the program
-
+```sh
 java Main
-
+```
 ## User Credentials(Testing)
 
 - Account NUmber: 5112002
