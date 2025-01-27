@@ -1,16 +1,11 @@
 # ATM Machine Project
 
-## Overview
-This is a simple Java-based ATM Machine Simulation program. It allows users to:
-- Withdraw Money
-- Deposit Money
-- Check Balance
+This program is a basic ATM functionality. Users can perform the following operations:
 
-## Features
-- User Authentication with an account number and PIN
-- Basic banking operation: Withdraw, Deposit,and Check Balance
-- Console based menu System
-- Simple error handling for incorrect inputs and insufficient funds
+- Withdraw cash
+- Deposit cash
+- Check account balance
+- Exit the ATM
 
 ## Requirements
 
